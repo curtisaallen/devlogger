@@ -1,6 +1,6 @@
-# devchat
+# Dev Logger
 
-> dev chat tool
+> Dev Logger Angular 2 App. That use Feathers JS API.
 
 ## About
 
